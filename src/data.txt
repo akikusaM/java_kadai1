@@ -1,0 +1,8 @@
+ポイント：1, コメント：comment1
+ポイント：2, コメント：comment2
+ポイント：3, コメント：commnet3
+ポイント：4, コメント：comment4
+ポイント：5, コメント：comment5
+ポイント：5, コメント：comment6
+ポイント：1, コメント：comment1
+ポイント：2, コメント：comment8
